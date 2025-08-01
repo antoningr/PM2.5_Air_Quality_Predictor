@@ -12,8 +12,9 @@ This **web application** allows users to **predict the concentration** of **PM2.
 | ![streamlit](image/streamlit.jpg)         |
 
 
-## 📌Features
-- Input precise **date** and **time **for accurate timestamping of predictions
+## 📌 Features
+
+- Input precise **date** and **time** for accurate timestamping of predictions
 - Enter **meteorological parameters**: temperature, dew point, pressure, wind direction & speed, solar radiation
 - Include **historical PM2.5 measurements** (lag features and moving averages)
 - **Dynamic prediction** with clear, color-coded air quality levels and health advice
@@ -58,7 +59,7 @@ This hourly data set contains the **PM2.5 data of US Embassy in Beijing**. Meanw
 - Instances: 43824
 - Features: 11
 
-Dataset Information
+Dataset Information:
 - Additional Information : The data's time period is between Jan 1st, 2010 to Dec 31st, 2014. Missing data are denoted as "NA".
 - Has Missing Values? Yes 
 
