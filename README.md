@@ -9,7 +9,7 @@ This **web application** allows users to **predict the concentration** of **PM2.
 
 | Streamlit web app                          |
 | ------------------------------------------ |
-| ![streamlit](images/streamlit.jpg)         |
+| ![streamlit](image/streamlit.jpg)         |
 
 
 ## 📌Features
